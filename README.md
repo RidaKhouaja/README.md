@@ -1,12 +1,20 @@
 # README.md
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C5F8A&height=200&section=header&text=Rida%20Khouaja&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Blockchain&descAlignY=58&descColor=cce4f7" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2C5F8A&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Deep+Learning+Engineer+%F0%9F%A4%96;Blockchain+Developer+%E2%9B%93%EF%B8%8F;Open+to+PFA+Internship+2025%E2%80%932026+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridakhouaja)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridakhouaja)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridakhouaja76@gmail.com)
 [![Location](https://img.shields.io/badge/Morocco-FF0000?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Laaounate,Morocco)
+
+<br/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ridakhouaja.ridakhouaja&style=for-the-badge&color=2C5F8A)
 
 </div>
 
@@ -17,17 +25,27 @@
 ```python
 class RidaKhouaja:
     def __init__(self):
-        self.name       = "Rida Khouaja"
-        self.role       = "Computer Engineering Student @ FST Errachidia"
-        self.focus      = ["Full-Stack Web", "AI / Deep Learning", "Blockchain"]
-        self.club       = "President @ BISOFT Engineering Club"
-        self.highlight  = "99.4% accuracy on 20K-image plant disease detection system"
-        self.languages  = ["Arabic 🇲🇦", "French 🇫🇷", "English 🇬🇧"]
+        self.name        = "Rida Khouaja"
+        self.role        = "Computer Engineering Student @ FST Errachidia"
+        self.focus       = ["Full-Stack Web", "AI / Deep Learning", "Blockchain"]
+        self.club        = "President @ BISOFT Engineering Club"
+        self.highlight   = "99.4% accuracy on 20K-image plant disease detection system"
+        self.languages   = ["Arabic 🇲🇦", "French 🇫🇷", "English 🇬🇧"]
         self.looking_for = "PFA Internship 2025–2026"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something great together 🚀")
 ```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ridakhouaja&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ridakhouaja)
+
+</div>
 
 ---
 
@@ -75,7 +93,7 @@ class RidaKhouaja:
 <tr>
 <td width="50%">
 
-### 🌱 Smart Agriculture AI System
+### 🌱 [Smart Agriculture AI System](https://github.com/ridakhouaja/smart-agriculture-ai)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -91,7 +109,7 @@ Plant disease detection using **CLIP + EfficientNet-B0**.
 </td>
 <td width="50%">
 
-### 📚 Decentralized Library DApp
+### 📚 [Decentralized Library DApp](https://github.com/ridakhouaja/decentralized-library-dapp)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Web3](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
@@ -109,7 +127,7 @@ Blockchain-based library management on Ethereum.
 <tr>
 <td width="50%">
 
-### ✅ Task Manager Application
+### ✅ [Task Manager Application](https://github.com/ridakhouaja/task-manager)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 Priority scheduling engine with advanced data structures.
@@ -122,7 +140,7 @@ Priority scheduling engine with advanced data structures.
 </td>
 <td width="50%">
 
-### 🗓️ Online Reservation System
+### 🗓️ [Online Reservation System](https://github.com/ridakhouaja/reservation-system)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
